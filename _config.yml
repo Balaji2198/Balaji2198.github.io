@@ -15,7 +15,7 @@ disqus_shortname: https-balaji2198-github-io
 permalink: :title
 cover: "/assets/header_image.jpg"
 logo: "/assets/balaji-logo.png"
-ga_tracking_id: "UA-82647777-1"
+ga_tracking_id: "UA-107302245-1"
 
 # Build settings
 markdown: kramdown
