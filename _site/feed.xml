@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Balaji</title>
+    <description>A personal website about technical things I find useful. Also Notes, tinkerings, experiments.
+</description>
+    <link>https://balaji2198.github.io//</link>
+    <atom:link href="https://balaji2198.github.io//feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Fri, 29 Sep 2017 19:00:09 +0530</pubDate>
+    <lastBuildDate>Fri, 29 Sep 2017 19:00:09 +0530</lastBuildDate>
+    <generator>Jekyll v3.2.1</generator>
+    
+      <item>
+        <title>Hello World</title>
+        <description>&lt;p&gt;Hello World. This is my first post on this blog. I always wanted to have a website of my own so that I could express myself in my own ways. And here today  I finally got my website live on the Internet. Lot more crazy stuffs will be posted here.&lt;/p&gt;
+
+&lt;p&gt;I believe being busy is the best way to learn new things, manage time and build up yourself.
+I am that person who believes nothing is impossible provided there is time, dedication and passion to work towards it.&lt;/p&gt;
+
+&lt;p&gt;In this blog, you can expect to find a log of all my technical and rarely, non-technical work. I will try to keep this blog active. Oh, Did I tell you I am just an amateur blogger? That means, I am very open to suggestions and will reply to almost all of the suggestions/criticism you inbox me.&lt;/p&gt;
+
+&lt;p&gt;Stay tuned. Let’s start the journey..&lt;/p&gt;
+</description>
+        <pubDate>Fri, 29 Sep 2017 00:00:00 +0530</pubDate>
+        <link>https://balaji2198.github.io//hello-world</link>
+        <guid isPermaLink="true">https://balaji2198.github.io//hello-world</guid>
+        
+        
+      </item>
+    
+  </channel>
+</rss>

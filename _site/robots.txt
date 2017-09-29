@@ -1,0 +1,2 @@
+User-agent: *
+Sitemap: https://balaji2198.github.io/sitemap.xml
