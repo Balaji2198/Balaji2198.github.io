@@ -6,9 +6,76 @@
 </description>
     <link>https://balaji2198.github.io//</link>
     <atom:link href="https://balaji2198.github.io//feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Fri, 29 Sep 2017 19:00:09 +0530</pubDate>
-    <lastBuildDate>Fri, 29 Sep 2017 19:00:09 +0530</lastBuildDate>
+    <pubDate>Sat, 30 Sep 2017 13:23:39 +0530</pubDate>
+    <lastBuildDate>Sat, 30 Sep 2017 13:23:39 +0530</lastBuildDate>
     <generator>Jekyll v3.2.1</generator>
+    
+      <item>
+        <title>My Add-on Went live in minutes</title>
+        <description>&lt;p&gt;A browser extension is a plug-in that extends the functionality of a web browser. Some of the Add-ons will enhace our browsing experience. I love to build software which will make the life easier. So I thought to develop one during the &lt;a href=&quot;https://reps.mozilla.org/e/mozillatn-sfd-extension-hackathon/&quot;&gt;SFD Hack17&lt;/a&gt; which is organised by MozillaTN on Software Freedom Day.&lt;/p&gt;
+
+&lt;p&gt;I always thinking about to manage my time effectively. I always running out of time. I will do lot of things say  Online &lt;strong&gt;MOOCS&lt;/strong&gt;, Do &lt;strong&gt;competitive Coding&lt;/strong&gt; &lt;strong&gt;🙂&lt;/strong&gt; Finish a college Assignment :( . So I have to be productive to do all those things. So I was wondering how to monitor my time that I spend on different tasks. So the Idea cameup to build an add-on.&lt;/p&gt;
+
+&lt;p&gt;My thougt is to make an icon in the toolbar. And Whenever we click the icon. The &lt;a href=&quot;https://developer.mozilla.org/en-US/Add-ons/WebExtensions/manifest.json/background&quot;&gt;Background script&lt;/a&gt; will listen to it and exectute the &lt;a href=&quot;https://developer.mozilla.org/en-US/Add-ons/WebExtensions/manifest.json/browser_action&quot;&gt;browser action&lt;/a&gt;.  First I made a json file which handles the background scripts and browser action. I build an add-on with few dedicated timings tab like 20Secs, 5 and 15 Mins. I also made an input box where we can enter a specific time and based on that it will run the timing.&lt;/p&gt;
+
+&lt;p&gt;Something like this.&lt;/p&gt;
+
+&lt;p&gt; 
+&lt;img alt=&quot;Timeout add-on&quot; src=&quot;/assets/timeout_addon-1.png&quot; /&gt;
+ &lt;/p&gt;
+
+&lt;p&gt;After some tweeking with JS and referring some &lt;a href=&quot;https://developer.mozilla.org/en-US/Add-ons/WebExtensions/API/tabs/executeScript&quot;&gt;Tabs&lt;/a&gt; APIs like this. I finally got my add-on working.&lt;/p&gt;
+
+&lt;p&gt; 
+&lt;img alt=&quot;Timeout add-on working&quot; src=&quot;/assets/timeout_addon-2.png&quot; /&gt;
+ &lt;/p&gt;
+
+&lt;p&gt;After that I submitted my addon in addons.mozilla.org. To my Surprise my add-on went live and got an email from the Mozilla Add-ons Team. Check my add-on &lt;a href=&quot;https://addons.mozilla.org/en-US/firefox/addon/time-out-for-your-tasks/&quot;&gt;Time-Out&lt;/a&gt; here.&lt;/p&gt;
+
+&lt;p&gt;Within &lt;strong&gt;5 minutes&lt;/strong&gt;, I get the following response:&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+
+Hello,&lt;br /&gt;&lt;br /&gt;
+
+Your add-on, Time Out 0.2, has been approved and is now available for download in our gallery at https://addons.mozilla.org/addon/time-out-for-your-tasks/
+&lt;br /&gt;&lt;br /&gt;
+
+Reviewer:&lt;br /&gt;
+
+Mozilla&lt;br /&gt;&lt;br /&gt;
+
+Comments:&lt;br /&gt;
+This version has been approved for the public.&lt;br /&gt;
+Thank you!&lt;br /&gt;&lt;br /&gt;
+
+If you want to respond please reply to this email or visit https://addons.mozilla.org/developers/addon/time-out-for-your-tasks/versions .&lt;br /&gt;&lt;br /&gt;
+
+To learn more about the review process, please visit https://developer.mozilla.org/en-US/Add-ons/AMO/Policy/Reviews&lt;br /&gt;&lt;br /&gt;
+Mozilla Add-ons Team&lt;br /&gt;
+https://addons.mozilla.org
+
+&lt;/blockquote&gt;
+
+&lt;p&gt;After that I found this in &lt;a href=&quot;https://blog.mozilla.org/addons/2017/09/21/review-wait-times-get-shorter/&quot;&gt;Mozilla Add-ons Blog&lt;/a&gt;. Cheers to the Add-ons Team. So now the Add-ons built on the WebExtensions API will now be automatically reviewed. This is too awesome 🙂.&lt;/p&gt;
+
+&lt;h3 id=&quot;let-the-world-know&quot;&gt;Let the world know&lt;/h3&gt;
+&lt;div align=&quot;center&quot;&gt;
+&lt;blockquote class=&quot;twitter-tweet&quot; data-conversation=&quot;none&quot; data-lang=&quot;en&quot;&gt;&lt;p lang=&quot;en&quot; dir=&quot;ltr&quot;&gt;My Next &lt;a href=&quot;https://twitter.com/MozWebExt&quot;&gt;@MozWebExt&lt;/a&gt;  went live in Less than a minute&lt;a href=&quot;https://twitter.com/balaji2198/status/911788127534030848&quot;&gt; September 23, 2017&lt;/a&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;script async=&quot;&quot; src=&quot;//platform.twitter.com/widgets.js&quot; charset=&quot;utf-8&quot;&gt;&lt;/script&gt;
+&lt;/div&gt;
+
+&lt;p&gt;&lt;br /&gt;
+Thanks to the AMO team &amp;amp; community contributors for all the knowledge shared plus mentoring and Mozilla Reps community for funding this event.&lt;/p&gt;
+</description>
+        <pubDate>Sat, 30 Sep 2017 00:00:00 +0530</pubDate>
+        <link>https://balaji2198.github.io//my-add-on-went-live-in-minutes</link>
+        <guid isPermaLink="true">https://balaji2198.github.io//my-add-on-went-live-in-minutes</guid>
+        
+        
+      </item>
     
       <item>
         <title>Hello World</title>
