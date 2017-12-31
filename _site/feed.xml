@@ -6,9 +6,188 @@
 </description>
     <link>https://balaji2198.github.io//</link>
     <atom:link href="https://balaji2198.github.io//feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sat, 30 Sep 2017 13:23:39 +0530</pubDate>
-    <lastBuildDate>Sat, 30 Sep 2017 13:23:39 +0530</lastBuildDate>
+    <pubDate>Sun, 31 Dec 2017 21:07:01 +0530</pubDate>
+    <lastBuildDate>Sun, 31 Dec 2017 21:07:01 +0530</lastBuildDate>
     <generator>Jekyll v3.2.1</generator>
+    
+      <item>
+        <title>My Contributions to Mozilla in 2017</title>
+        <description>&lt;p&gt;2017 was one Crazy-Amazing year for me, full of learnings, challenges and new exciting things. I can say that one of the best things happened to me in 2017 is Mozilla. I have learned a lot of things by contributing to Mozilla. I will try to Summarize my journey and all the contributions I have done so far in 2017 here.&lt;/p&gt;
+
+&lt;h2 id=&quot;march&quot;&gt;March:&lt;/h2&gt;
+
+&lt;p&gt;I came to know about &lt;a href=&quot;https://twitter.com/mozillaTN&quot;&gt;MozillaTN Community&lt;/a&gt;. I introduced myself and They specified about the various contributions pathways to Mozilla.&lt;/p&gt;
+
+&lt;p&gt;Then &lt;a href=&quot;https://twitter.com/iamVP7/&quot;&gt;Viswaprasath&lt;/a&gt;, Mozilla Rep and Mentor at MozillaTN asked me to create a website for the Campus club, That interested me and to my surprise, I managed to build that and host it on GitHub pages within 2-3 days. Being new to Github and other work flow it’s a difficult thing to achieve that in 3 days :smile:.&lt;/p&gt;
+
+&lt;p&gt;Then  MozillaTN community organised the first ever over night hackathon at KCG college of Technology chennai. It had two tracks &lt;strong&gt;Web Extension&lt;/strong&gt; and &lt;strong&gt;WebVR&lt;/strong&gt;. I am on the Web Extension track. Through that event, I got a good understanding of how to build the Web extensions and learned about different APIs.I &lt;a href=&quot;https://balajiwebblog.wordpress.com/2017/03/19/mozilla-open-source-hack/&quot;&gt;blogged&lt;/a&gt; about my experience in that &lt;a href=&quot;https://balajiwebblog.wordpress.com/2017/03/19/mozilla-open-source-hack/&quot;&gt;event here&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;PS: This is my first blog I ever wrote :sweat_smile:.&lt;/p&gt;
+
+&lt;h2 id=&quot;april&quot;&gt;April:&lt;/h2&gt;
+
+&lt;p&gt;I started participating in the QA events like Web Compatibility,:beetle: Bug triage and Bug verification Days. MozillaIndia QA team usually conduct these activities three days in a week. We have to update the number of Bugs we have worked on in Bugzilla in the Etherpad. Through this, I learned how to report a bug and triage it. As a  part of the recognition of it, My name is listed under the &lt;strong&gt;Best contributors&lt;/strong&gt; in their Blog post. :tada:.&lt;/p&gt;
+
+&lt;h2 id=&quot;june&quot;&gt;June:&lt;/h2&gt;
+
+&lt;p&gt;I started playing around with the WebVR using &lt;a href=&quot;https://aframe.io/&quot;&gt;Aframe&lt;/a&gt;.Aframe is an Awesome framework used for Building virtual reality experience in Web.&lt;/p&gt;
+
+&lt;p&gt;Then Viswaprasath made an announcement about &lt;strong&gt;Week of Contribution&lt;/strong&gt; in mailing list :e-mail:. If you want to know what Week of Contribution is all about here is the overview of it.&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Weeks of Contribution is one of the amazing series of online event where first time contributors get started contributing to Mozilla&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;This time its about WebExtension. Each week there will be 3 session in the IRC channel on Monday, Wednesday and Friday between 09:00 PM  :clock9: and 10:00 PM :clock10:. It will be running for 5 weeks, so there are 15 sessions.&lt;/p&gt;
+
+&lt;h2 id=&quot;july&quot;&gt;July:&lt;/h2&gt;
+
+&lt;p&gt;So June month is all about learning a different APIs used in the web browser and &lt;strong&gt;building a small add-on&lt;/strong&gt; using that. And at the end of session Viswaprasath give a small exercise to all the participants. During the session, We discussed the APIs, and the queries we had while building the small-addon using the API we discussed in the last session. It’s good to learn from all the Participants and we shared our knowledge between us.&lt;/p&gt;
+
+&lt;p&gt;I should emphasize here that It’s a &lt;strong&gt;great way of learning&lt;/strong&gt; things. I learned a lot of stuffs. Huge thanks to Viswaprasath for volunteering his time to do all these things :rocket:.&lt;/p&gt;
+
+&lt;p&gt;Few APIs we discussed are&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Omnibox API&lt;/li&gt;
+  &lt;li&gt;Alarm API + Notification API&lt;/li&gt;
+  &lt;li&gt;ContextMenu API&lt;/li&gt;
+  &lt;li&gt;Tabs.query API and few others.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Few &lt;strong&gt;Add-ons&lt;/strong&gt; we are thought and built during the sessions&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Muti Search Engine&lt;/li&gt;
+  &lt;li&gt;Water Remainder&lt;/li&gt;
+  &lt;li&gt;Youtube playlist Controller&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;september&quot;&gt;September:&lt;/h2&gt;
+
+&lt;p&gt;This has been a great month. MozillaTN hosted the open hackathon for web-extensions in the &lt;a href=&quot;https://mozillatn.github.io/blog/MozillaTN-SFD/&quot;&gt;Software Freedom Day&lt;/a&gt;. which means the students, employees, and anyone can join in that. I had an opportunity to meet the Mozilla reps &lt;a href=&quot;https://twitter.com/iamVP7/&quot;&gt;Viswaprasath&lt;/a&gt;, &lt;a href=&quot;https://twitter.com/hellokarthic&quot;&gt;Karthickeyan&lt;/a&gt;, and &lt;a href=&quot;https://twitter.com/dinesh_mv&quot;&gt;Dinesh&lt;/a&gt;, also Mozilla Regional Coordinator &lt;a href=&quot;https://twitter.com/prasanthp96&quot;&gt;Prasanth&lt;/a&gt;. I know all of them through their telegram handle only, All of them shared their experience and their learnings with me :innocent:.&lt;/p&gt;
+
+&lt;p&gt;Coming back to the Hackathon part, Since I already had some experience with building and web-extension. Viswaprasath told me to help other participants to clear all their queries. It’s great to &lt;strong&gt;share my learnings&lt;/strong&gt; with the participants  :blush:. I helped them to solve the problems they face and suggested Correct API to use based on their idea.&lt;/p&gt;
+
+&lt;p&gt;In the mean time I also started working on my addon.This hackathon is conducted as a part of series of events conducted over India. In which they select the &lt;strong&gt;Best add-ons&lt;/strong&gt; from India. So these kinds of events are conducted in Hyderabad, Coimbatore and few other places in India.&lt;/p&gt;
+
+&lt;p&gt;I developed a &lt;strong&gt;Live-Editor add-on&lt;/strong&gt; using Javascript which we can check our HTML and CSS code easily. After that I published the add-on in &lt;a href=&quot;http://addons.mozilla.org/&quot;&gt;AMO&lt;/a&gt;.&lt;/p&gt;
+
+&lt;blockquote class=&quot;twitter-tweet&quot; data-lang=&quot;en&quot;&gt;&lt;p lang=&quot;en&quot; dir=&quot;ltr&quot;&gt;Check out my new &lt;a href=&quot;https://twitter.com/MozWebExt?ref_src=twsrc%5Etfw&quot;&gt;@MozWebExt&lt;/a&gt; Live Editor😀. Test your HTML and CSS Quickly. &lt;a href=&quot;https://t.co/vjUdv9DK0A&quot;&gt;https://t.co/vjUdv9DK0A&lt;/a&gt;  &lt;a href=&quot;https://twitter.com/mozamo?ref_src=twsrc%5Etfw&quot;&gt;@mozamo&lt;/a&gt; &lt;a href=&quot;https://twitter.com/hashtag/SFDHack17?src=hash&amp;amp;ref_src=twsrc%5Etfw&quot;&gt;#SFDHack17&lt;/a&gt; &lt;a href=&quot;https://twitter.com/mozillaTN?ref_src=twsrc%5Etfw&quot;&gt;@mozillaTN&lt;/a&gt; &lt;a href=&quot;https://twitter.com/MozillaIN?ref_src=twsrc%5Etfw&quot;&gt;@MozillaIN&lt;/a&gt;&lt;/p&gt;&amp;mdash; Balaji boominathan (@balaji2198) &lt;a href=&quot;https://twitter.com/balaji2198/status/911234887117545472?ref_src=twsrc%5Etfw&quot;&gt;September 22, 2017&lt;/a&gt;&lt;/blockquote&gt;
+&lt;script async=&quot;&quot; src=&quot;https://platform.twitter.com/widgets.js&quot; charset=&quot;utf-8&quot;&gt;&lt;/script&gt;
+
+&lt;h2 id=&quot;october&quot;&gt;October:&lt;/h2&gt;
+
+&lt;p&gt;Follwed by SFDHack17, MozillaIN conducted the next hackathon in SRM University, But this time I am there as a mentor along with Mozilla Reps to guide the participants. I helped them to clear their doubts and also helped them to publish their add-on in the AMO also for the India level competition.&lt;/p&gt;
+
+&lt;p&gt;It’s a two days hack and it’s great to see lot of them are intrested to develop their add-on and eager to learn. Totally it was an amazing experience for me as a mentor :smiley:. Also I am Very happy for the event went great. You can see a more information about this in my &lt;a href=&quot;https://balaji2198.github.io/MozillaTN-SRM-WebExtension-Hack&quot;&gt;SRM_Hack blog post&lt;/a&gt;.&lt;/p&gt;
+
+&lt;blockquote class=&quot;twitter-tweet&quot; data-lang=&quot;en&quot;&gt;&lt;p lang=&quot;en&quot; dir=&quot;ltr&quot;&gt;Our &lt;a href=&quot;https://twitter.com/mozillareps?ref_src=twsrc%5Etfw&quot;&gt;@mozillareps&lt;/a&gt; &amp;amp; &lt;a href=&quot;https://twitter.com/mozTechSpeakers?ref_src=twsrc%5Etfw&quot;&gt;@mozTechSpeakers&lt;/a&gt;   finally finishing &lt;a href=&quot;https://twitter.com/hashtag/SRMKzillaExt?src=hash&amp;amp;ref_src=twsrc%5Etfw&quot;&gt;#SRMKzillaExt&lt;/a&gt; &lt;a href=&quot;https://twitter.com/MozWebExt?ref_src=twsrc%5Etfw&quot;&gt;@MozWebExt&lt;/a&gt; event with some uploads to &lt;a href=&quot;https://twitter.com/mozamo?ref_src=twsrc%5Etfw&quot;&gt;@mozamo&lt;/a&gt; and group selfie &lt;a href=&quot;https://t.co/Jwx6FKAvdI&quot;&gt;pic.twitter.com/Jwx6FKAvdI&lt;/a&gt;&lt;/p&gt;&amp;mdash; Mozilla Tamil Nadu (@mozillaTN) &lt;a href=&quot;https://twitter.com/mozillaTN/status/917018729833160704?ref_src=twsrc%5Etfw&quot;&gt;October 8, 2017&lt;/a&gt;&lt;/blockquote&gt;
+&lt;script async=&quot;&quot; src=&quot;https://platform.twitter.com/widgets.js&quot; charset=&quot;utf-8&quot;&gt;&lt;/script&gt;
+
+&lt;p&gt;Also as a part of &lt;strong&gt;HacktoberFest&lt;/strong&gt; conducted by Digital Ocean and GitHub, I contributed to the two MozillaIndia websites.&lt;/p&gt;
+
+&lt;h2 id=&quot;november&quot;&gt;November:&lt;/h2&gt;
+
+&lt;p&gt;At last after all the events conducted over India by the respective community over there. Now it’s a time for Final Result. In the mid of November the result was announced. I am very happy to see my add-on &lt;a href=&quot;https://addons.mozilla.org/en-US/firefox/addon/live-editor/&quot;&gt;LiveEditor&lt;/a&gt; was selected as a Best add-on in the Whole India along with two other add-ons. As a&lt;/p&gt;
+
+&lt;blockquote class=&quot;twitter-tweet&quot; data-lang=&quot;en&quot;&gt;&lt;p lang=&quot;en&quot; dir=&quot;ltr&quot;&gt;My &lt;a href=&quot;https://twitter.com/hashtag/liveEditor?src=hash&amp;amp;ref_src=twsrc%5Etfw&quot;&gt;#liveEditor&lt;/a&gt; &lt;a href=&quot;https://twitter.com/MozWebExt?ref_src=twsrc%5Etfw&quot;&gt;@MozWebExt&lt;/a&gt;  is selected as a Best &lt;a href=&quot;https://twitter.com/hashtag/add?src=hash&amp;amp;ref_src=twsrc%5Etfw&quot;&gt;#add&lt;/a&gt;-on in India. Thank you &lt;a href=&quot;https://twitter.com/MozillaIN?ref_src=twsrc%5Etfw&quot;&gt;@MozillaIN&lt;/a&gt; and &lt;a href=&quot;https://twitter.com/mozamo?ref_src=twsrc%5Etfw&quot;&gt;@mozamo&lt;/a&gt;. &lt;a href=&quot;https://t.co/c84gufx4eB&quot;&gt;pic.twitter.com/c84gufx4eB&lt;/a&gt;&lt;/p&gt;&amp;mdash; Balaji boominathan (@balaji2198) &lt;a href=&quot;https://twitter.com/balaji2198/status/931533355270660097?ref_src=twsrc%5Etfw&quot;&gt;November 17, 2017&lt;/a&gt;&lt;/blockquote&gt;
+&lt;script async=&quot;&quot; src=&quot;https://platform.twitter.com/widgets.js&quot; charset=&quot;utf-8&quot;&gt;&lt;/script&gt;
+
+&lt;p&gt;Also November was a big month for Mozilla also, Since the &lt;a href=&quot;https://wiki.mozilla.org/Quantum&quot;&gt;Firefox Quantum&lt;/a&gt; was &lt;a href=&quot;https://blog.mozilla.org/blog/2017/11/14/introducing-firefox-quantum/&quot;&gt;launched&lt;/a&gt; and it made a huge impact. Another good thing is I am invited to be part of the &lt;strong&gt;MozillaTN Functional Team&lt;/strong&gt;. We also had a Community call for how we can improve and how to involve the new contributors.&lt;/p&gt;
+
+&lt;h2 id=&quot;december&quot;&gt;December:&lt;/h2&gt;
+
+&lt;p&gt;Another good news, now it’s from the MozillaUS Team I has been selected as a member of &lt;strong&gt;Mozilla Add-ons community board&lt;/strong&gt;. I just applied for the position after seeing this &lt;a href=&quot;https://blog.mozilla.org/addons/2017/10/17/join-featured-add-ons-advisory-board/&quot;&gt;blog post&lt;/a&gt;. I really amazed after seeing this email.&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Hello, brand new Feature Board members! &lt;br /&gt;&lt;br /&gt;
+I’m very excited to welcome you to the start of your six-month project focused on helping AMO. Millions of users rely on this collection to find the best extensions for Firefox.&lt;br /&gt;&lt;br /&gt;
+Right now is a particularly interesting time to participate in AMO’s process. With Firefox Quantum launching just days ago, this means only content built with WebExtensions API is compatible with the browser. So you’re the very first Feature Board to be fully focused on curating this new, modernized type of browser content.&lt;br /&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;As mentioned in the email, We are the &lt;strong&gt;first set of Feature Board&lt;/strong&gt; after the Firefox Quantum release. As a side note, my add-on now has a &lt;strong&gt;100+  users and having 750+ Downloads&lt;/strong&gt;.&lt;/p&gt;
+
+&lt;p&gt; 
+&lt;img alt=&quot;100 users&quot; src=&quot;/assets/Live_Editor_100_users.png&quot; /&gt;
+ &lt;/p&gt;
+
+&lt;p&gt; 
+&lt;img alt=&quot;100 users&quot; src=&quot;/assets/Live_Editor_780_Downloads.png&quot; /&gt;
+ &lt;/p&gt;
+
+&lt;p&gt;I really have to thank you, everyone, in the Mozilla community for making this Year special to me :innocent:. special thanks to Viswaprasath and other MozillaTN team for their guidance. Expecting 2018 will be the year for more responsibility :sparkles:, and More Learning :computer: and Sharing :confetti_ball:. Once again Thank you everyone! for making this year more Awesome! :tada:&lt;/p&gt;
+</description>
+        <pubDate>Sun, 31 Dec 2017 00:00:00 +0530</pubDate>
+        <link>https://balaji2198.github.io//My-Contributions-to-Mozilla-in-2017</link>
+        <guid isPermaLink="true">https://balaji2198.github.io//My-Contributions-to-Mozilla-in-2017</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>MozillaTN SRM WebExtension Hack</title>
+        <description>&lt;p&gt;Techtonic is A Mozilla Web extensions Hands-on Workshop &amp;amp; Hackathon scheduled on 7 th and 8 th October 2017 at SRM University Kattakulathur Campus. The workshop will be taken by the Mozilla Reps &lt;a href=&quot;https://twitter.com/iamVP7/&quot;&gt;Viswaprasath&lt;/a&gt;, &lt;a href=&quot;https://twitter.com/hellokarthic&quot;&gt;Karthickeyan&lt;/a&gt; and &lt;a href=&quot;https://twitter.com/dinesh_mv&quot;&gt;Dinesh&lt;/a&gt; of the Mozilla Tamilnadu Community and is Organised by SRMKZILLA The Mozilla Campus Club Of SRM University KTR.&lt;/p&gt;
+
+&lt;p&gt;The aim of this session is to help attendees to get started with WebExtensions. On the first day, the attendees will learn about WebExtensions, and introduction about basic API. Then they will be sharing about the extension they would like to develop next day. Second day is full of coding and 1-hour demo by all the attendees.&lt;/p&gt;
+
+&lt;p&gt;This is the first time I am Fully mentoring the participants. Earlier I mentored the Participants in &lt;a href=&quot;https://reps.mozilla.org/e/mozillatn-sfd-extension-hackathon/&quot;&gt;SFD17 Hack&lt;/a&gt;. But in SFD I was also one of the participants. There I mentored a small scale participants. Here its totally a different Scenario. The Participants ranges from 45-50. So More Responsibility 🙂.&lt;/p&gt;
+
+&lt;h2 id=&quot;day-1&quot;&gt;Day 1:&lt;/h2&gt;
+
+&lt;p&gt;The First day the Session Agenda was&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Getting Started with Mozilla Community&lt;/li&gt;
+  &lt;li&gt;Technical Introduction about Web Extension.&lt;/li&gt;
+  &lt;li&gt;Introduction of various Web Extension APIs.&lt;/li&gt;
+  &lt;li&gt;Discussion &amp;amp; Design prototype on Extension to be developed.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Karthickeyan Explained about the Contribution Path to Mozilla why we should move to the Mozilla Web Extensions.&lt;/p&gt;
+
+&lt;blockquote class=&quot;twitter-tweet&quot; data-lang=&quot;en&quot;&gt;&lt;p lang=&quot;en&quot; dir=&quot;ltr&quot;&gt;Do you ❤️ live coding.. our astronaut &lt;a href=&quot;https://twitter.com/hellokarthic?ref_src=twsrc%5Etfw&quot;&gt;@hellokarthic&lt;/a&gt;  is introducing us about world of &lt;a href=&quot;https://twitter.com/MozWebExt?ref_src=twsrc%5Etfw&quot;&gt;@MozWebExt&lt;/a&gt; at &lt;a href=&quot;https://twitter.com/hashtag/SRMKzillaExt?src=hash&amp;amp;ref_src=twsrc%5Etfw&quot;&gt;#SRMKzillaExt&lt;/a&gt; &lt;a href=&quot;https://t.co/nUPMxtzC7E&quot;&gt;pic.twitter.com/nUPMxtzC7E&lt;/a&gt;&lt;/p&gt;&amp;mdash; Mozilla Tamil Nadu (@mozillaTN) &lt;a href=&quot;https://twitter.com/mozillaTN/status/916605668513087488?ref_src=twsrc%5Etfw&quot;&gt;October 7, 2017&lt;/a&gt;&lt;/blockquote&gt;
+&lt;script async=&quot;&quot; src=&quot;//platform.twitter.com/widgets.js&quot; charset=&quot;utf-8&quot;&gt;&lt;/script&gt;
+
+&lt;p&gt;Then the Web Extension APIs like Context Menu Demo Were give by the Viswaprasath and Dinesh. Also the addon Demo Controlling Youtube  by the Web Extension was also given. Through this Participants were able to get their &lt;strong&gt;First Web Extension&lt;/strong&gt; running on their coolest browser now Yeah It’s Firefox Nightly. If you haven’t installed this yet You can get it &lt;a href=&quot;https://www.mozilla.org/en-US/firefox/channel/desktop/&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;The Participants were So happy and coudn’t control their Joy. So they Started tweeting about it. We followed this HashTag &lt;strong&gt;#SRMKZillaExt&lt;/strong&gt; for this Event.
+And The participants started thinking about the idea they want to develop next day.&lt;/p&gt;
+
+&lt;h2 id=&quot;day-2&quot;&gt;Day 2:&lt;/h2&gt;
+
+&lt;p&gt;This Day we started around 9:30 AM. The Paricipants are started filling up their ideas in etherpad. Based on that All of us started guiding the participants about the API they can use for their Extensions.&lt;/p&gt;
+
+&lt;p&gt;I mentored around 10 participants. I helped them &lt;strong&gt;debug their issues&lt;/strong&gt;. One of the participants I mentored has an idea like Based on the options we select in Context menu it Search and filter out images with the different type of extensions like .png , .jpg. He is very active and he keep on asking questions. I also learned a lot of things by Debugging their Issues and I explored some new APIs.&lt;/p&gt;
+
+&lt;p&gt; 
+&lt;img alt=&quot;Me while Debugging Issues&quot; src=&quot;/assets/SRM_Hack/Debug_addon.jpg&quot; /&gt;
+ &lt;/p&gt;
+
+&lt;p&gt;After that totally 10 participants finished their Extensions in the given time. As I am already having a previous exprerience in Github and publishing the Web Extension, Viswaprasath told me to help the participants to publish their Extension into &lt;a href=&quot;http://addons.mozilla.org/&quot;&gt;AMO&lt;/a&gt;. I mentored them to do so. At first the Add-on are published only after the review by the Human reviewers. It takes some time. Now Mozilla automated it. So the Extension review wait times are get much shorter, You can know more about it &lt;a href=&quot;https://blog.mozilla.org/addons/2017/09/21/review-wait-times-get-shorter/&quot;&gt;here&lt;/a&gt;. I covered my experience in detail in my previous &lt;a href=&quot;https://balaji2198.github.io/my-add-on-went-live-in-minutes&quot;&gt;blog post&lt;/a&gt;.&lt;/p&gt;
+
+&lt;blockquote class=&quot;twitter-tweet&quot; data-lang=&quot;en&quot;&gt;&lt;p lang=&quot;en&quot; dir=&quot;ltr&quot;&gt;Right now reaction of developers at our &lt;a href=&quot;https://twitter.com/hashtag/SRMKzillaExt?src=hash&amp;amp;ref_src=twsrc%5Etfw&quot;&gt;#SRMKzillaExt&lt;/a&gt; event after their &lt;a href=&quot;https://twitter.com/MozWebExt?ref_src=twsrc%5Etfw&quot;&gt;@MozWebExt&lt;/a&gt; is approved and available at &lt;a href=&quot;https://twitter.com/mozamo?ref_src=twsrc%5Etfw&quot;&gt;@mozamo&lt;/a&gt; &lt;a href=&quot;https://t.co/gm0V8qc1bf&quot;&gt;pic.twitter.com/gm0V8qc1bf&lt;/a&gt;&lt;/p&gt;&amp;mdash; Mozilla Tamil Nadu (@mozillaTN) &lt;a href=&quot;https://twitter.com/mozillaTN/status/916980674514391041?ref_src=twsrc%5Etfw&quot;&gt;October 8, 2017&lt;/a&gt;&lt;/blockquote&gt;
+&lt;script async=&quot;&quot; src=&quot;//platform.twitter.com/widgets.js&quot; charset=&quot;utf-8&quot;&gt;&lt;/script&gt;
+
+&lt;p&gt;They are happy to see their add-on get published in much shorter time. Then Dinesh Explained about the Major upgrade for Firefox, which is Firefox57 known as Quantum. He also explained about the Photon.&lt;/p&gt;
+
+&lt;h2 id=&quot;wrap-up&quot;&gt;Wrap Up:&lt;/h2&gt;
+
+&lt;p&gt;Then the participants Explained What they have developed and learned during these two days. And I make sure of all of them uploaded their code in Github. Som of them are new to Git So I helped them. I also talked with them to actively contribute to the Mozilla Community. Hope they Will 🙂. At last We took a group photo. Here you go.&lt;/p&gt;
+
+&lt;p&gt; 
+&lt;img alt=&quot;Group photo in SRM Hack&quot; src=&quot;/assets/SRM_Hack/Group_Photo.jpg&quot; /&gt;
+ &lt;/p&gt;
+
+&lt;p&gt;Thank you eveyone for all those who made this event great. The important thing I learned is &lt;strong&gt;Community Building&lt;/strong&gt;. One can Never learn these things in College, I am learning a lot by Contributing and taking part in the Open source Communities 🙂. A special Thanks to
+Viswaprasath, Karthickeyan and Dinesh.&lt;/p&gt;
+</description>
+        <pubDate>Thu, 19 Oct 2017 00:00:00 +0530</pubDate>
+        <link>https://balaji2198.github.io//MozillaTN-SRM-WebExtension-Hack</link>
+        <guid isPermaLink="true">https://balaji2198.github.io//MozillaTN-SRM-WebExtension-Hack</guid>
+        
+        
+      </item>
     
       <item>
         <title>My Add-on Went live in minutes</title>
