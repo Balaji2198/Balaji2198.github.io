@@ -6,9 +6,72 @@
 </description>
     <link>https://balaji2198.github.io//</link>
     <atom:link href="https://balaji2198.github.io//feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sun, 31 Dec 2017 21:07:01 +0530</pubDate>
-    <lastBuildDate>Sun, 31 Dec 2017 21:07:01 +0530</lastBuildDate>
+    <pubDate>Fri, 30 Mar 2018 16:27:32 +0530</pubDate>
+    <lastBuildDate>Fri, 30 Mar 2018 16:27:32 +0530</lastBuildDate>
     <generator>Jekyll v3.2.1</generator>
+    
+      <item>
+        <title>My talk on Web Extensions at NIT Trichy</title>
+        <description>&lt;p&gt;Recently I was invited to deliver a talk on “How to build a Web-Extensions?” at 
+NIT Trichy, one of the prestigious institution in India on 10th March 2018. I was 
+really excited and honoured to give a talk there. My entire 
+approach towards this talk was to pitch in more about How to get started with 
+Web-Extensions and give a hands-on session on it.&lt;/p&gt;
+
+&lt;p&gt;The session was two part (First is Introduction to Mozilla community and then second 
+part is getting started with Web Extensions.). The event started of with the Barani 
+by explaining students about Mozilla mission and contribution path to 
+Mozilla(Webextensions, webVR, webCompat, MDN, Rust). Also he gave 
+a brief overview about Quality Assurence and how he is contributing.&lt;/p&gt;
+
+&lt;blockquote class=&quot;twitter-tweet&quot; data-lang=&quot;en&quot;&gt;&lt;p lang=&quot;en&quot; dir=&quot;ltr&quot;&gt;A wonderful session on &amp;quot;Add-ons and Web Extensions&amp;quot; at &lt;a href=&quot;https://twitter.com/hashtag/NITTrichy?src=hash&amp;amp;ref_src=twsrc%5Etfw&quot;&gt;#NITTrichy&lt;/a&gt; &lt;a href=&quot;https://twitter.com/mozillaTN?ref_src=twsrc%5Etfw&quot;&gt;@mozillaTN&lt;/a&gt; &lt;a href=&quot;https://twitter.com/MozillaIN?ref_src=twsrc%5Etfw&quot;&gt;@MozillaIN&lt;/a&gt; &lt;a href=&quot;https://twitter.com/mozamo?ref_src=twsrc%5Etfw&quot;&gt;@mozamo&lt;/a&gt; &lt;a href=&quot;https://twitter.com/MozWebExt?ref_src=twsrc%5Etfw&quot;&gt;@MozWebExt&lt;/a&gt; &lt;a href=&quot;https://t.co/7aUpIpb3uy&quot;&gt;pic.twitter.com/7aUpIpb3uy&lt;/a&gt;&lt;/p&gt;&amp;mdash; baraniCool (@baranicool) &lt;a href=&quot;https://twitter.com/baranicool/status/975396655792091137?ref_src=twsrc%5Etfw&quot;&gt;March 18, 2018&lt;/a&gt;&lt;/blockquote&gt;
+&lt;script async=&quot;&quot; src=&quot;https://platform.twitter.com/widgets.js&quot; charset=&quot;utf-8&quot;&gt;&lt;/script&gt;
+
+&lt;p&gt;There were ~60 attendees who were enthusiastic to learn something new and were happy 
+to spend their day for enhancing their skill set.&lt;/p&gt;
+
+&lt;blockquote class=&quot;twitter-tweet&quot; data-lang=&quot;en&quot;&gt;&lt;p lang=&quot;en&quot; dir=&quot;ltr&quot;&gt;Gave a talk on &lt;a href=&quot;https://twitter.com/MozWebExt?ref_src=twsrc%5Etfw&quot;&gt;@MozWebExt&lt;/a&gt; at NIT Trichy. Glad to see such an enthusiastic participants &lt;a href=&quot;https://twitter.com/MozillaIN?ref_src=twsrc%5Etfw&quot;&gt;@MozillaIN&lt;/a&gt; &lt;a href=&quot;https://twitter.com/mozillaTN?ref_src=twsrc%5Etfw&quot;&gt;@mozillaTN&lt;/a&gt; &lt;a href=&quot;https://t.co/fNa93a724R&quot;&gt;pic.twitter.com/fNa93a724R&lt;/a&gt;&lt;/p&gt;&amp;mdash; Balaji boominathan (@balaji2198) &lt;a href=&quot;https://twitter.com/balaji2198/status/975297728321265665?ref_src=twsrc%5Etfw&quot;&gt;March 18, 2018&lt;/a&gt;&lt;/blockquote&gt;
+&lt;script async=&quot;&quot; src=&quot;https://platform.twitter.com/widgets.js&quot; charset=&quot;utf-8&quot;&gt;&lt;/script&gt;
+
+&lt;p&gt;After the Barani’s session I started of with “Introduction to Web extension” 
+session.Then I explained them about Webextensions, why we moved from SDK to 
+webextensions, students loved the concept of portability. Participants was intrested 
+to know about how does the same code runs seamlessly as Firefox extension as well as 
+Chrome extension. This for sure raised the interest of the students. They are 
+impressed by the concept of &lt;strong&gt;“Write once and run anywhere.”&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt; 
+&lt;img alt=&quot;Me explaining how to build webextensions&quot; src=&quot;/assets/Balaji_NIT_Trichy_Talk.jpg&quot; /&gt;
+ &lt;/p&gt;
+
+&lt;p&gt;Then after giving a basic overview and Anatomy of the Web extensions. I explained 
+them various &lt;strong&gt;webextensions API&lt;/strong&gt;, and how they can use them to modify 
+functionalities of the browser, students were pretty enthusiastic to know the ease of 
+development.&lt;/p&gt;
+
+&lt;p&gt;Then the Hands-on session started. I expalined the codeflow and walked them through 
+the each line of code of &lt;strong&gt;“chrome_url_overrides”&lt;/strong&gt;. We (Me and Barani) helped the 
+participants to Debug the extension and helped the students to run their extensions
+on their laptop  and cleared their doubts. One of the participant was very much 
+interested to know about the &lt;strong&gt;Tabs API&lt;/strong&gt; and asked the lot 
+of doubts based on it. I was happy to answer those questions and explained him 
+clearly about the Tabs API.&lt;/p&gt;
+
+&lt;p&gt;Then I showed them how to port same extension to chrome and they were shocked to see the Same code worked on chrome like a charm.&lt;/p&gt;
+
+&lt;blockquote class=&quot;twitter-tweet&quot; data-lang=&quot;en&quot;&gt;&lt;p lang=&quot;en&quot; dir=&quot;ltr&quot;&gt;Thanks for this awesome session on &lt;a href=&quot;https://twitter.com/MozWebExt?ref_src=twsrc%5Etfw&quot;&gt;@MozWebExt&lt;/a&gt;  hope to see more students participating in the upcoming challenge organised by &lt;a href=&quot;https://twitter.com/mozamo?ref_src=twsrc%5Etfw&quot;&gt;@mozamo&lt;/a&gt; team.. keep doing well &lt;a href=&quot;https://twitter.com/balaji2198?ref_src=twsrc%5Etfw&quot;&gt;@balaji2198&lt;/a&gt; &lt;a href=&quot;https://twitter.com/baranicool?ref_src=twsrc%5Etfw&quot;&gt;@baranicool&lt;/a&gt; &lt;a href=&quot;https://t.co/vN6PBy1BhH&quot;&gt;https://t.co/vN6PBy1BhH&lt;/a&gt;&lt;/p&gt;&amp;mdash; Mozilla TamilNadu at #SRMFoss (@mozillaTN) &lt;a href=&quot;https://twitter.com/mozillaTN/status/975450381210628096?ref_src=twsrc%5Etfw&quot;&gt;March 18, 2018&lt;/a&gt;&lt;/blockquote&gt;
+&lt;script async=&quot;&quot; src=&quot;https://platform.twitter.com/widgets.js&quot; charset=&quot;utf-8&quot;&gt;&lt;/script&gt;
+
+&lt;p&gt;After this, the management gave us a vote of thanks and an unforgettable momento. 
+Totally it was a super awesome crowd with super awesome response. Thanks to Mozilla
+and the Mozilla reps &lt;a href=&quot;https://twitter.com/trishulgoel&quot;&gt;Trishul&lt;/a&gt; and &lt;a href=&quot;https://twitter.com/iamVP7/&quot;&gt;Viswaprasath&lt;/a&gt; for giving this opportunity to me. Excited to contribute more to the Mozilla Community.&lt;/p&gt;
+</description>
+        <pubDate>Sun, 18 Mar 2018 00:00:00 +0530</pubDate>
+        <link>https://balaji2198.github.io//Web-extensions-talk-at-NIT-Trichy</link>
+        <guid isPermaLink="true">https://balaji2198.github.io//Web-extensions-talk-at-NIT-Trichy</guid>
+        
+        
+      </item>
     
       <item>
         <title>My Contributions to Mozilla in 2017</title>
