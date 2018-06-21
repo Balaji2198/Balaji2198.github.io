@@ -27,7 +27,7 @@ Feel free to reach out to me at these places.
 &nbsp; &nbsp; &nbsp;
 <a href="https://twitter.com/balaji2198"><i class="fa fa-twitter" aria-hidden="true" style="font-size:40px;color:#2980b9"></i></a>
 &nbsp; &nbsp; &nbsp;
-<a href="https://www.linkedin.com/in/balaji-boominathan-08021a120/"><i class="fa fa-linkedin" aria-hidden="true" style="font-size:40px;color:#2980b9"></i></a>
+<a href="https://www.linkedin.com/in/balaji2198"><i class="fa fa-linkedin" aria-hidden="true" style="font-size:40px;color:#2980b9"></i></a>
 &nbsp; &nbsp; &nbsp;
 <!-- <a href="https://www.quora.com/profile/Balaji-Boominathan"><i class="fa fa-quora" aria-hidden="true" style="font-size:40px;color:#2980b9"></i></a>
 &nbsp; &nbsp; &nbsp; -->
